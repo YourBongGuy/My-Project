@@ -1,0 +1,3 @@
+Hello World!
+This an example note for Test Git 
+Now my git version is only 1.0.
